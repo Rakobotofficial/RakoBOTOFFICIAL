@@ -17,7 +17,7 @@ const BotName = 'RakoBOT[OFFICIAL]';
 const instagram = 'https://instagram.com/dekwahyu2022'; 
 const telegram = 'https://t.me/reuzzz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://youtube.com/channel/UCQBpapt62xgWDZD9fXPJ_lA';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
