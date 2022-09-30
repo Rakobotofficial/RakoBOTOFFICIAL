@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'RakoBOT[OFFICIAL]'; 
-const instagram = 'https://instagram.com/reuz.id'; 
+const instagram = 'https://instagram.com/dekwahyu2022'; 
 const telegram = 'https://t.me/reuzzz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://www.youtube.com/c/reuz_id';
